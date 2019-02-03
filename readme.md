@@ -1,4 +1,4 @@
-# OpenHantek [![Build Status](https://travis-ci.org/Equoda/openhantek.svg?branch=master)](https://travis-ci.org/Equoda/openhantek) [![Build status](https://ci.appveyor.com/api/projects/status/github/Equoda/openhantek?branch=master&svg=true)](https://ci.appveyor.com/project/Equoda/openhantek/branch/master) [![Stability: Unsupported](https://masterminds.github.io/stability/unsupported.svg)](https://masterminds.github.io/stability/unsupported.html)
+# OpenHantek [![Build Status](https://travis-ci.org/OpenHantek/openhantek.svg?branch=master)](https://travis-ci.org/OpenHantek/openhantek) [![Build status](https://ci.appveyor.com/api/projects/status/github/OpenHantek/openhantek?branch=master&svg=true)](https://ci.appveyor.com/project/OpenHantek/openhantek/branch/master) [![Stability: Unsupported](https://masterminds.github.io/stability/unsupported.svg)](https://masterminds.github.io/stability/unsupported.html)
 
 OpenHantek is a free software for Hantek and compatible (Voltcraft/Darkwire/Protek/Acetech) USB digital signal oscilloscopes.
 
